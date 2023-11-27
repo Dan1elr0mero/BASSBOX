@@ -1,37 +1,39 @@
-body{
-    margin: 0;
-    padding: 0;
+/* body {
+  margin: 0;
+  padding: 0;
 }
 header {
-    padding: 25px;
-    background-color: aliceblue;
-    text-align: center;
+  padding: 25px;
+  background-color: aliceblue;
+  text-align: center;
 }
-row{
-    display: flex;
-    flex-wrap: wrap;
+.center {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
 }
-main{
-    padding: 20px;
-    flex: 100px;
-    text-align: center;
-background-color: aquamarine;
+
+main {
+  padding: 20px;
+
+  text-align: center;
+  background-color: aquamarine;
 }
-section{
-    padding: 20px;
-    flex: 30%;
-    text-align: center;
-background-color: skyblue; 
+section {
+  padding: 20px;
+  flex: 30%;
+  text-align: center;
+  background-color: skyblue;
 }
-aside{
-    padding: 20px;
-    flex: 30%;
-    text-align: center;
-background-color: gold; 
+aside {
+  padding: 20px;
+  flex: 30%;
+  text-align: center;
+  background-color: gold;
 }
-footer{
-    padding: 20px;
-    flex: 100%;
-    text-align: center;
-background-color: springgreen; 
-}
+footer {
+  padding: 20px;
+  flex: 100%;
+  text-align: center;
+  background-color: springgreen;
+} */
