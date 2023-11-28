@@ -1,39 +1,5 @@
-/* body {
-  margin: 0;
-  padding: 0;
+@media (max-width: 600px) {
+  #navbarPrincipal {
+    min-height: 100vh;
+  }
 }
-header {
-  padding: 25px;
-  background-color: aliceblue;
-  text-align: center;
-}
-.center {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-}
-
-main {
-  padding: 20px;
-
-  text-align: center;
-  background-color: aquamarine;
-}
-section {
-  padding: 20px;
-  flex: 30%;
-  text-align: center;
-  background-color: skyblue;
-}
-aside {
-  padding: 20px;
-  flex: 30%;
-  text-align: center;
-  background-color: gold;
-}
-footer {
-  padding: 20px;
-  flex: 100%;
-  text-align: center;
-  background-color: springgreen;
-} */
